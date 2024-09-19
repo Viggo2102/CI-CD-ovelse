@@ -8,6 +8,7 @@ public class CicdOvelseApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(CicdOvelseApplication.class, args);
+        System.out.println("hej");
     }
 
 }
